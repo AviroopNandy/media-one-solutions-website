@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Tech Stack and Libraries
 
-react, animeJS, react-timeline-animation, react-router-dom, etc.
+react, animejs, react-timeline-animation, react-router-dom, etc.
 
 ## Available Scripts
 
