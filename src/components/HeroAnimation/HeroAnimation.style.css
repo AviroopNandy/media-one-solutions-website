@@ -1,0 +1,61 @@
+.animation-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.animation-wrapper {
+    width: 50%;
+    height: 100vh;
+}
+
+.sphere-animation {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 580px;
+    height: 580px;
+    /* width: 300px; */
+    /* height: 300px; */
+    margin: -290px 0 0 -290px;
+    /* margin: -150px 0 0 -150px; */
+}
+
+.sphere path {
+    fill: url(#sphereGradient);
+    stroke-width: 1px;
+    /* stroke: rgba(80,80,80,.35); */
+    stroke: rgba(39, 187, 219, .35);
+    backface-visibility: hidden;
+}
+
+@media (min-width: 500px) {
+    .sphere path {
+        stroke-width: .4px;
+    }
+}
+
+@media (max-width: 580px) {
+    .sphere-animation {
+        width: 450px;
+        height: 450px;
+        margin: -225px 0 0 -225px;
+    }
+}
+
+@media (max-width: 450px) {
+    .sphere-animation {
+        width: 350px;
+        height: 350px;
+        margin: -175px 0 0 -175px;
+    }
+}
+
+@media (max-width: 350px) {
+    .sphere-animation {
+        width: 300px;
+        height: 300px;
+        margin: -150px 0 0 -150px;
+    }
+}

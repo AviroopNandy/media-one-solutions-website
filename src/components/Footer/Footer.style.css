@@ -1,0 +1,28 @@
+footer {
+    display: block;
+}
+
+.site-footer {
+    background-color: #000000;
+    padding: 0 60px;
+    color: #ffffff;
+    font-size: 1rem;
+    z-index: 1;
+    position: relative;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -25px;
+    margin-right: -25px;
+}
+
+.row > a {
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.site-footer-logo {
+    
+}
