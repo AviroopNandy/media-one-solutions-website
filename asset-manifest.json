@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/media-one-solutions-website/static/css/main.1a1d1c3a.chunk.css",
+    "main.js": "/media-one-solutions-website/static/js/main.febc5127.chunk.js",
+    "main.js.map": "/media-one-solutions-website/static/js/main.febc5127.chunk.js.map",
+    "runtime-main.js": "/media-one-solutions-website/static/js/runtime-main.c6acadb1.js",
+    "runtime-main.js.map": "/media-one-solutions-website/static/js/runtime-main.c6acadb1.js.map",
+    "static/js/2.a4e6eb1e.chunk.js": "/media-one-solutions-website/static/js/2.a4e6eb1e.chunk.js",
+    "static/js/2.a4e6eb1e.chunk.js.map": "/media-one-solutions-website/static/js/2.a4e6eb1e.chunk.js.map",
+    "index.html": "/media-one-solutions-website/index.html",
+    "static/css/main.1a1d1c3a.chunk.css.map": "/media-one-solutions-website/static/css/main.1a1d1c3a.chunk.css.map",
+    "static/js/2.a4e6eb1e.chunk.js.LICENSE.txt": "/media-one-solutions-website/static/js/2.a4e6eb1e.chunk.js.LICENSE.txt",
+    "static/media/adf.592d9239.jpg": "/media-one-solutions-website/static/media/adf.592d9239.jpg",
+    "static/media/balaji.32aeec00.png": "/media-one-solutions-website/static/media/balaji.32aeec00.png",
+    "static/media/eros.0aec8a63.jpg": "/media-one-solutions-website/static/media/eros.0aec8a63.jpg",
+    "static/media/logo-black-withoutbg.dc7f0332.png": "/media-one-solutions-website/static/media/logo-black-withoutbg.dc7f0332.png",
+    "static/media/pen.a9c6a3f1.jpg": "/media-one-solutions-website/static/media/pen.a9c6a3f1.jpg",
+    "static/media/pvr.22c93761.jfif": "/media-one-solutions-website/static/media/pvr.22c93761.jfif",
+    "static/media/rajshri.f41a1787.jpg": "/media-one-solutions-website/static/media/rajshri.f41a1787.jpg",
+    "static/media/reliance.f3a32bba.png": "/media-one-solutions-website/static/media/reliance.f3a32bba.png",
+    "static/media/saregama.a792a946.jpg": "/media-one-solutions-website/static/media/saregama.a792a946.jpg",
+    "static/media/sony.ccbb959b.png": "/media-one-solutions-website/static/media/sony.ccbb959b.png",
+    "static/media/times.8a2296c5.jpg": "/media-one-solutions-website/static/media/times.8a2296c5.jpg",
+    "static/media/venus.bd3d8c26.jpg": "/media-one-solutions-website/static/media/venus.bd3d8c26.jpg",
+    "static/media/viacom.cfd57b11.png": "/media-one-solutions-website/static/media/viacom.cfd57b11.png",
+    "static/media/why-mos.2e74e922.png": "/media-one-solutions-website/static/media/why-mos.2e74e922.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6acadb1.js",
+    "static/js/2.a4e6eb1e.chunk.js",
+    "static/css/main.1a1d1c3a.chunk.css",
+    "static/js/main.febc5127.chunk.js"
+  ]
+}
